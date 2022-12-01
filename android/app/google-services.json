@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741616515662",
+    "project_id": "vidme-livevideocall",
+    "storage_bucket": "vidme-livevideocall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741616515662:android:335b283aa8b77b8ec1a11f",
+        "android_client_info": {
+          "package_name": "com.example.vidme_live_video_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741616515662-iljchr13d7mq90895l62b6i2ca51auni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vidme_live_video_chat",
+            "certificate_hash": "ba05747ac80b87e0c9a82ab00d391a38209883ba"
+          }
+        },
+        {
+          "client_id": "741616515662-4022mcjtvjmcnhrhcr5v8i2rockfkded.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZa_WivA2ZC87AIZ8NW9Y2AZlaaUqWksU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741616515662-4022mcjtvjmcnhrhcr5v8i2rockfkded.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
